@@ -32,6 +32,11 @@ h2{
     margin-top: 2%;
 }
 
+.box-ejercicio1 img{
+width: 100%;
+}
+
+
 #boxImg1{
     display: flex;
     justify-content: center;
